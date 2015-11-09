@@ -1,3 +1,5 @@
 # Site settings
 title: RedSea
-
+baseurl: "/redsea"
+markdown: rdiscount
+markdown_ext:  markdown,mkdown,mkdn,mkd,md
