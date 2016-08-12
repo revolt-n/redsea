@@ -1,5 +1,5 @@
 ---
 title: First Post here
-layout:post
+layout: post
 ---
 some text goes here.
