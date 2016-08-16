@@ -1,5 +1,7 @@
 ---
 title: First Post here
-layout:post
+layout: post
 ---
-some text goes here and there dfsfs.
+
+some text goes here.
+
