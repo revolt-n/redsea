@@ -1,0 +1,13 @@
+---
+title:  football
+layout: post
+output: 
+  html_document: 
+    keep_md: yes
+---
+
+```{r}
+plot(1:10)
+
+```
+
