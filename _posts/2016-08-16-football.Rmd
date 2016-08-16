@@ -1,13 +1,7 @@
 ---
 title:  football
 layout: post
-output: 
-  html_document: 
-    keep_md: yes
 ---
 
-```{r}
-plot(1:10)
-
-```
+some text goes here today changes goes here.
 
