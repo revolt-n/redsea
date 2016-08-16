@@ -1,15 +1,18 @@
 ---
 layout: post
 title:  football
+date: "`r Sys.time()`"
 published: true
-date: 16 aug 2016
-output: 
-  html_document: 
-    keep_md: yes
+tags: [example1, example2]
 ---
+```{r echo=FALSE}
+library(brocks)
+blog_opts()
+
+```
 
 Your markdown here!
 
 ```{r}
-2+2
+plot(1:10)
 ```
